@@ -5,24 +5,24 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to [Muzealth Supplements]</h1>
-        <p>Converting customers from social media platforms</p>
+        <h1>Welcome to [Muzealth Health Concept]</h1>
+        <p>Simple Ways To Live A Vibrant Healthy Life</p>
         <a
-          href="https://facebook.com/muzealth-supplements"
+          href="https://www.facebook.com/johnmuzanyi/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Facebook
         </a>
         <a
-          href="https://twitter.com/muzealth-supplements"
+          href="https://www.linkedin.com/in/john-muzanyi/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Twitter
         </a>
         <a
-          href="https://instagram.com/muzealth-supplements"
+          href="https://www.instagram.com/john_muzanyi/"
           target="_blank"
           rel="noopener noreferrer"
         >
