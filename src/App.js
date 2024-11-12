@@ -8,6 +8,13 @@ function App() {
         <h1>Welcome to Muzealth Concepts</h1>
         <p>Simple Ways To Live A Vibrant Healthy Life</p>
         <a
+          href="https://wa.link/3fjutl"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          WhatsApp
+        </a>
+        <a
           href="https://www.facebook.com/johnmuzanyi/"
           target="_blank"
           rel="noopener noreferrer"
